@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-085-computational-science-and-engineering-i-summer-2020/ca7a84c219f9cc3953d6775c15c6ab5b_MIT18_085Summer20_lec_SJ.pdf
 file_size: 440449
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-085-computational-science-and-engineering-i-summer-2020/176ef7a507ae814479856332bc432e14_Problem2_Coding_Part_Answer.zip
 file_size: 1951
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

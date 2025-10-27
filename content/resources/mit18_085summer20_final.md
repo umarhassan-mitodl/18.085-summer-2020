@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-085-computational-science-and-engineering-i-summer-2020/c39c66d86c3dcd04630ccd9155493245_MIT18_085Summer20_final.pdf
 file_size: 199854
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

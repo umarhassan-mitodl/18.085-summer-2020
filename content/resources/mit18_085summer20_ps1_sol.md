@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-085-computational-science-and-engineering-i-summer-2020/bd74fd2c19896fc1777f3ca093fddb8c_MIT18_085Summer20_PS1_sol.m
 file_size: 1476
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

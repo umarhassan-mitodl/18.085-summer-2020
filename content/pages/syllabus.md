@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   course outline, assignments and exams, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -29,7 +27,7 @@ This course provides the fundamental computational toolbox for solving science a
 Textbook
 --------
 
-Strang, Gilbert. _[Computational Science and Engineering](http://math.mit.edu/~gs/cse/)_. Wellesley, MA: Wellesley-Cambridge Press, 2007. ISBN: 9780961408817.
+Strang, Gilbert. _{{% resource_link "0b8c8b98-d19d-4abf-9152-dffc6a36cb78" "Computational Science and Engineering" %}}_. Wellesley, MA: Wellesley-Cambridge Press, 2007. ISBN: 9780961408817.
 
 Problem Sets
 ------------
